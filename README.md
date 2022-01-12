@@ -43,8 +43,5 @@ Any time a variable is set to `None`, make sure to set it to the correct code.
 
 Unit tests are written for you under `test_module.py`.
 
-### Development
-
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
 
 
